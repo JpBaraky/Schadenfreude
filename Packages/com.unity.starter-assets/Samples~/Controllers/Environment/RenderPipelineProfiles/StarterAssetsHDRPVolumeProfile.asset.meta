@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe05288aca2f31443877a786e771100f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/Samples~/Controllers/Environment/RenderPipelineProfiles/StarterAssetsHDRPVolumeProfile.asset
+  uploadId: 620180

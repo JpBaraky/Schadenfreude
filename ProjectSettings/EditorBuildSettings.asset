@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CatLogoScene/Logo Gato.unity
+    guid: 090604e512731ee40913f7afa4a19f4e
+  - enabled: 1
+    path: Assets/Scenes/TittleScreen1.unity
+    guid: fca09887db153ca4f9690ac4ffa300ac
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 249de4365013dc044a791dcbc6634dbc
+  - enabled: 1
+    path: Assets/Scenes/TittleScreen.unity
+    guid: 413e59d4c50a8d44f86183c9c30b80c4
+  - enabled: 1
+    path: Assets/Scenes/EndingCredits.unity
+    guid: 759a936f57cdfce4f9ac814c418d576b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+  m_UseUCBPForAssetBundles: 0

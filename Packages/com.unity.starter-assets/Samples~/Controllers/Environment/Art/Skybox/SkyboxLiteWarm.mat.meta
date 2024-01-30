@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeab33f69c199e54794f516d31450ec4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/Samples~/Controllers/Environment/Art/Skybox/SkyboxLiteWarm.mat
+  uploadId: 620180

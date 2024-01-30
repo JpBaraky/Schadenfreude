@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b9cd307ded813b40850bb5bc135d538
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/CHANGELOG.md
+  uploadId: 620180

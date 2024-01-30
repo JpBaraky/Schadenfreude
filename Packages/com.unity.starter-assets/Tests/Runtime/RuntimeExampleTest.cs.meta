@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6aa3b8bd767d72649afb9c02f9c07229
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/Tests/Runtime/RuntimeExampleTest.cs
+  uploadId: 620180

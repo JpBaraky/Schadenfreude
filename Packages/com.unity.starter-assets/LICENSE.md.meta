@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd932bcc762f6ab4099cef1c6bee838d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/LICENSE.md
+  uploadId: 620180

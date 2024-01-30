@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3e05a71252d6274c9fef8c987bed468
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267961
+  packageName: 'Starter Assets: Character Controllers | URP'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.unity.starter-assets/Third Party Notices.md
+  uploadId: 620180
